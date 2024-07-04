@@ -1,0 +1,8 @@
+.innercontainer {
+  background-color: rgba(255, 255, 255, 0.799);
+  /* flex: 1; */
+  padding: 60px;
+  margin: 10px;
+  border-radius: 20px;
+  font-family: sans-serif;
+}
